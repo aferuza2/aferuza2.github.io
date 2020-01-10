@@ -1,18 +1,18 @@
 # Site wide configuration
 
-title: Site Title
+title: Amirkulova Lab
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
+  name: Feruza A. Amirkulova
+  avatar: feruza_picture.png
   bio: "A brief description of yourself."
-  email: #emailaddress
-  # Do not include the @ symbol in your Twitter username
+  email: feruza.amirkulova@sjsu.edu
+  #Do not include the @ symbol in your Twitter username
   twitter: #username
-  linkedin: #username
+  linkedin: https://www.linkedin.com/in/feruza-amirkulova-8401b125/
   github: #username
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
